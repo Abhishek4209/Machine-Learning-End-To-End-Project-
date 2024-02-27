@@ -14,7 +14,7 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-    name="Insurance Premium Predection",
+    name="mlproject",
     version="0.0.1",
     author="Abhishek Upadhyay",
     author_email="abhishek.it21-25@recabn.ac.in",
